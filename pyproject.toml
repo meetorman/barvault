@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "truthtrader"
+name = "truthtrader-barvault"
 version = "0.1.0"
 description = "Cache-first market bar archive: fetch from Polygon (or others), store 1m bars, return any timeframe. No pandas required for callers."
 authors = ["Bryan Clauss <bryanclauss@gmail.com>"]
